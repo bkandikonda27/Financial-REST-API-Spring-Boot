@@ -1,7 +1,7 @@
 # Financial-REST-API-Spring-Boot
 
 This is a REST API developed in Spring Boot to pull Financial Data using the Finnhub API.
-
+______________________________________________________________________________________________________________________________
 
 
 
@@ -24,6 +24,6 @@ get Company Price Target - endpoint ("/pricetarget/{st}) - i.e ("/pricetarget/SG
 
 
 
-
+______________________________________________________________________________________________________________________________
 The mappings return a Java Object with relevant company information.
 
